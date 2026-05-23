@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+packages/
+*.nuget.props
+*.nuget.targets
+
+# MS Access Lock Files (Do NOT ignore .mdb files as they are the database)
+App_Data/*.ldb
+App_Data/*.laccdb
+
+# Application Logs
+App_Data/logs/
+*.log
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
