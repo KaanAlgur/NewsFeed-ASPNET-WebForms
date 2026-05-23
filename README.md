@@ -99,4 +99,4 @@ Hw4NewsProject/
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-Developed by: @KaanAlgur
+**Developed by:** [@KaanAlgur](https://github.com/KaanAlgur)
