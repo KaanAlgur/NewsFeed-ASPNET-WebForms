@@ -70,7 +70,7 @@ Hw4NewsProject/
 ### Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/NewsFeed-ASPNET-WebForms.git
+   git clone https://github.com/KaanAlgur/NewsFeed-ASPNET-WebForms.git
    cd NewsFeed-ASPNET-WebForms
    ```
 2. **Open in Visual Studio:**
